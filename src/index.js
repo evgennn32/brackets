@@ -45,6 +45,3 @@ function containsBrackets(string,bracketsArr) {
 
 
 
-
-
-
